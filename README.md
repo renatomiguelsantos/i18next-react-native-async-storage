@@ -2,6 +2,9 @@
 
 This plugin caches your user's language in React Native's Async storage
 
+### FORKED
+This repo was forked from https://github.com/0xClpz/i18next-react-native-async-storage and updated to use the new async storage project instead of the deprecated ones the original repo is still using.
+
 ## Getting Started
 
 Install using:
